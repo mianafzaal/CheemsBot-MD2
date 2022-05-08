@@ -21,18 +21,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['916909137213']
-global.premium = ['916909137213']
-global.ownernomer = '916909137213'
-global.ownername = '🦄Dream Guy Xeon'
-global.botname = 'Cheems Bot MD V2'
-global.footer = 'Xeon Bot Inc.'
-global.ig = 'https://github.com/DGXeon'
-global.region = 'India, NorthEast, Mizoram'
-global.sc = 'https://github.com/DGXeon/CheemsBot-MD2'
-global.myweb = 'https://youtu.be/imFIX-Wrt3s'
+global.owner = ['923430436852']
+global.premium = ['923430436852']
+global.ownernomer = '923430436852'
+global.ownername = '𝑴𝑰𝑨𝑵💌'
+global.botname = '𝑴𝑰𝑨𝑵-𝑩𝑶𝑻-𝑴𝑫'
+global.footer = '𝐌𝐈𝐀𝐍-𝐁𝐎𝐓-𝐌𝐃♧'
+global.ig = 'https://instagram.com/mian_savage_boy?utm_medium=copy_link'
+global.region = 'Pakistan, Lahore'
+global.sc = 'https://instagram.com/mian_savage_boy?utm_medium=copy_link'
+global.myweb = 'https://instagram.com/mian_savage_boy?utm_medium=copy_link'
 global.packname = 'Cheems Bot'
-global.author = '🦄Dream Guy Xeon'
+global.author = '🦋Mian🦋'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -44,7 +44,7 @@ global.mess = {
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'In Process...',
+    wait: 'W̶̶a̶̶i̶̶t̶ ̶o̶̶n̶̶e̶ ̶m̶̶i̶̶n̶̶u̶̶t̶̶e̶̶🤗🤭...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
