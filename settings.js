@@ -31,7 +31,7 @@ global.ig = 'https://instagram.com/mian_savage_boy?utm_medium=copy_link'
 global.region = 'Pakistan, Lahore'
 global.sc = 'https://instagram.com/mian_savage_boy?utm_medium=copy_link'
 global.myweb = 'https://instagram.com/mian_savage_boy?utm_medium=copy_link'
-global.packname = 'Cheems Bot'
+global.packname = 'Bot'
 global.author = '🦋Mian🦋'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
